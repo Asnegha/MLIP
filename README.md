@@ -32,5 +32,5 @@ This project implements **FlowNet**, a convolutional neural network for estimati
 
 <img width="1873" height="1038" alt="image" src="https://github.com/user-attachments/assets/db121473-b056-4acf-8631-bc71499b807b" />
 
-## Acknowedgement
+## Acknowledgement
 The code is built on top of https://github.com/ClementPinard/FlowNetPytorch repo.
