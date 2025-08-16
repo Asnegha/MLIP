@@ -1,7 +1,7 @@
 # ☁️ Cloud Motion Estimation using FlownetS
 Optical flow or optic flow is the pattern of apparent motion of objects, surfaces, and edges in a visual scene caused by the relative motion between an observer and a scene.
 This project implements **FlowNet**, a convolutional neural network for estimating optical flow, specifically applied to **cloud motion estimation** from satellite or weather images. The model helps analyze and visualize cloud movement over time.
-
+## My youtube explanation video of the project: https://www.youtube.com/watch?v=ObQx9PNnGt8
 ---
 
 ## 📁 File Structure
@@ -26,9 +26,6 @@ This project implements **FlowNet**, a convolutional neural network for estimati
   - λ is halved every 100k iterations after the first 300k iterations  
 - **Total Epochs**: 300  
 - **Epoch Size**: 1000 samples per epoch  
-
-
-## My youtube explanation video of the project: https://www.youtube.com/watch?v=ObQx9PNnGt8
 
 <img width="1873" height="1038" alt="image" src="https://github.com/user-attachments/assets/db121473-b056-4acf-8631-bc71499b807b" />
 
